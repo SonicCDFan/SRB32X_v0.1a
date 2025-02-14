@@ -1,0 +1,19 @@
+It's Sonic Chaos but without emulator!
+
+Play the game with its 2 versions of SMS & GG!
+
+In a single version play with Sonic or Tails to stop the plans of South Island!
+
+Dr. Eggman gets the 6th emerald! 
+
+This remake is on PC & Android!
+
+Program: Game Maker
+
+Engine: Open Sonic SMS
+
+Characters & Levels Belong to: SEGA
+
+Remake By: @Laiker_2003
+
+Also the sonic retro splash screen is here but the screen is random.
